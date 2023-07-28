@@ -1,10 +1,10 @@
 # Jonny Abrams (he/him)
 
-## Full stack developer specialising in React, React Native, Next.js, Ruby on Rails and TypeScript
+### Full stack developer specialising in React, React Native, Next.js, Ruby on Rails and TypeScript
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnyabrams)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Projects:
+# My Projects:
 
 ## Full-Stack React/React Native/Next.js Projects
 
