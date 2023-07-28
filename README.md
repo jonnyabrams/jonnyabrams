@@ -4,8 +4,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnyabrams)](https://github.com/anuraghazra/github-readme-stats)
 
-# My Projects:
-
 ## Full-Stack React/React Native/Next.js Projects
 
 | Name                         | Description       | Tech/tools        |
