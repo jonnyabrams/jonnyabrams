@@ -1,6 +1,6 @@
 # Jonny Abrams (he/him)
 
-### Full stack developer specialising in TypeScript, React, React Native, Next.js, Node and Ruby on Rails
+### Full stack developer specialising in TypeScript, React, React Native, Next.js, Node, Ruby on Rails and responsive CSS (including Tailwind, Sass and styled-components)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnyabrams)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,6 +10,7 @@
 | ---------------------------- | ----------------- | ----------------- |
 | [Bookface 2.0](https://github.com/jonnyabrams/bookface-2.0) | Facebook clone | TypeScript, React, PostgreSQL, Node, Express, React Query, Sass, Context API |
 | [Pizza Capaldi](https://github.com/jonnyabrams/pizza-capaldi) | Peter Capaldi-themed pizza deliery website | TypeScript, Next.js, MongoDB, PayPal integration |
+| [Tour Blimey!](https://github.com/jonnyabrams/pizza-capaldi) | Tour listings website | TypeScript, React, Node, Express, MongoDB, Redux Toolkit |
 | [Readit](https://github.com/jonnyabrams/bookface-2.0) | Reddit clone | TypeScript, Next.js, GraphQL, PostgreSQL, Tailwind |
 | [TokTik](https://github.com/jonnyabrams/toktik) | TikTok clone | TypeScript, Next.js, Sanity, Tailwind CSS, Zustand |
 | [YourTube](https://github.com/jonnyabrams/yourtube) | YouTube clone | React, Node, Express, MongoDB, Firebase |
