@@ -24,7 +24,7 @@
 | ---------------------------- | ----------------- | ----------------- |
 | [Splotify](https://github.com/jonnyabrams/splotify)        | Spotify clone | TypeScript, React, Redux Toolkit, Tailwind |
 | [Kangalivery](https://github.com/jonnyabrams/kangalivery)  | Deliveroo mobile app clone| React Native, Redux Toolkit |
-| [Ubre](https://github.com/jonnyabrams/ubre)  | Uber mobile app clone| TypeScript, React Native, Tailwind, Readux Toolkit |
+| [Ubre](https://github.com/jonnyabrams/ubre)  | Uber mobile app clone| TypeScript, React Native, Tailwind, Redux Toolkit, Google Maps API |
 | [Cignal](https://github.com/jonnyabrams/cignal)  | Signal mobile app clone| TypeScript, React Native and Firebase |
 | [ScareBnb](https://github.com/jonnyabrams/scarebnb)  | Airbnb clone for haunted houses | TypeScript, Next.js and Tailwind |
 | [Getcha Gadgets](https://github.com/jonnyabrams/ecommerce-typescript)        | E-commerce website | TypeScript, Next.js, Sanity CMS |
